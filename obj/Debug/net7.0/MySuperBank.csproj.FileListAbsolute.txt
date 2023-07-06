@@ -1,0 +1,15 @@
+/Users/ayangefelix/Documents/C#/MySuperBank/bin/Debug/net7.0/MySuperBank
+/Users/ayangefelix/Documents/C#/MySuperBank/bin/Debug/net7.0/MySuperBank.deps.json
+/Users/ayangefelix/Documents/C#/MySuperBank/bin/Debug/net7.0/MySuperBank.runtimeconfig.json
+/Users/ayangefelix/Documents/C#/MySuperBank/bin/Debug/net7.0/MySuperBank.dll
+/Users/ayangefelix/Documents/C#/MySuperBank/bin/Debug/net7.0/MySuperBank.pdb
+/Users/ayangefelix/Documents/C#/MySuperBank/obj/Debug/net7.0/MySuperBank.csproj.AssemblyReference.cache
+/Users/ayangefelix/Documents/C#/MySuperBank/obj/Debug/net7.0/MySuperBank.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ayangefelix/Documents/C#/MySuperBank/obj/Debug/net7.0/MySuperBank.AssemblyInfoInputs.cache
+/Users/ayangefelix/Documents/C#/MySuperBank/obj/Debug/net7.0/MySuperBank.AssemblyInfo.cs
+/Users/ayangefelix/Documents/C#/MySuperBank/obj/Debug/net7.0/MySuperBank.csproj.CoreCompileInputs.cache
+/Users/ayangefelix/Documents/C#/MySuperBank/obj/Debug/net7.0/MySuperBank.dll
+/Users/ayangefelix/Documents/C#/MySuperBank/obj/Debug/net7.0/refint/MySuperBank.dll
+/Users/ayangefelix/Documents/C#/MySuperBank/obj/Debug/net7.0/MySuperBank.pdb
+/Users/ayangefelix/Documents/C#/MySuperBank/obj/Debug/net7.0/MySuperBank.genruntimeconfig.cache
+/Users/ayangefelix/Documents/C#/MySuperBank/obj/Debug/net7.0/ref/MySuperBank.dll
